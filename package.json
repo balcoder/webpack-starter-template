@@ -1,0 +1,22 @@
+{
+  "name": "webpack-starter",
+  "version": "1.0.0",
+  "description": "Webpack Starter ",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "webpack4"
+  ],
+  "author": "Des Barrett",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.11"
+  },
+  "devDependencies": {
+    "webpack": "^4.29.6",
+    "webpack-cli": "^3.3.0"
+    
+  }
+}
