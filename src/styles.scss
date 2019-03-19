@@ -1,0 +1,7 @@
+body {
+  background-image: url('./hotel-1.jpg');
+
+  & .hello {
+    color: pink;
+  }
+}
