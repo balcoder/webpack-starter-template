@@ -1,6 +1,6 @@
 import _ from 'lodash';
 import './styles.scss';
-import hotel1 from './hotel-1.jpg'
+import * from './img';
 
 function component() {
   let element = document.createElement('div');
